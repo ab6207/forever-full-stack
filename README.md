@@ -1,107 +1,102 @@
+
+
+
 <div align="center">
 
-# 🛒 Forever Fashion
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Forever%20Fashion&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Modern%20Full%20Stack%20MERN%20E-Commerce%20Platform&descAlignY=78&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+E-Commerce+Platform;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;JWT+Authentication+%7C+Admin+Dashboard;Stripe+Payment+Integration;Built+by+Anurag+Singh" />
+<br/>
 
-<br>
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00d4ff?style=for-the-badge\&labelColor=0d1117)](https://forever-frontend-jgifxgwlo-anurag-singhs-projects-f7753076.vercel.app)
 
-<a href="https://forever-frontend-jgifxgwlo-anurag-singhs-projects-f7753076.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C4CC?style=for-the-badge">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-ffffff?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0d1117)](https://github.com/ab6207/forever-full-stack)
 
-<a href="https://github.com/ab6207/forever-full-stack">
-<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge">
-</a>
-
-<br><br>
-
-![GitHub stars](https://img.shields.io/github/stars/ab6207/forever-full-stack?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/ab6207/forever-full-stack?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/ab6207/forever-full-stack?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Stars](https://img.shields.io/github/stars/ab6207/forever-full-stack?style=flat-square\&color=00d4ff\&labelColor=0d1117)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square\&labelColor=0d1117)
 
 </div>
 
 ---
 
-# 📖 Overview
+## 📖 Overview
 
-Forever Fashion is a modern full-stack MERN e-commerce application designed for seamless online shopping. Users can browse products, filter collections, manage carts, place orders, and complete secure payments, while administrators can manage inventory and orders through a dedicated admin dashboard.
+**Forever Fashion** is a production-ready full-stack e-commerce platform built using the **MERN Stack**. It provides a complete online shopping experience where users can browse products, search collections, manage carts, place orders, and complete secure payments.
 
-The project demonstrates real-world implementation of authentication, authorization, product management, payment integration, and scalable REST APIs.
+The platform also includes a dedicated **Admin Dashboard** for product management, order handling, and inventory control.
+
+> A real-world MERN application demonstrating authentication, authorization, cloud image storage, payment integration, and scalable REST APIs.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-## 👤 User Features
+### 👤 Customer Panel
 
 * 🔐 User Registration & Login
 * 🛒 Add to Cart & Remove from Cart
-* 🔍 Product Search & Filtering
-* 📦 Order Placement
-* 💳 Secure Payment Gateway
+* 🔍 Search and Filter Products
+* ❤️ Wishlist Management
+* 📦 Place Orders
+* 💳 Secure Stripe Payments
 * 📜 Order History
-* 📱 Fully Responsive Design
+* 📱 Fully Responsive UI
 
-## 👨‍💼 Admin Features
+### 👨‍💼 Admin Panel
 
-* ➕ Add Products
-* ✏️ Update Products
+* ➕ Add New Products
+* ✏️ Update Existing Products
 * ❌ Delete Products
-* 📦 Manage Orders
+* 📦 Manage Customer Orders
 * 📊 Dashboard Overview
 * 🖼️ Upload Product Images
 
-## 🔒 Authentication & Security
+### 🔒 Authentication & Security
 
-* JWT Authentication
-* Protected Routes
-* Secure API Access
-* Role-Based Authorization
+* 🔑 JWT Authentication
+* 🔐 Protected Routes
+* 🛡️ Role-Based Authorization
+* ✅ Secure REST APIs
+
+### ☁️ Cloud Services
+
+* Cloudinary Image Uploads
+* Optimized Media Delivery
+* Secure Asset Management
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+| Layer          | Technology                    |
+| -------------- | ----------------------------- |
+| Frontend       | React.js, Tailwind CSS, Axios |
+| Backend        | Node.js, Express.js           |
+| Database       | MongoDB, Mongoose             |
+| Authentication | JWT                           |
+| Payments       | Stripe                        |
+| Image Storage  | Cloudinary                    |
+| Deployment     | Vercel                        |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,git,github,tailwind,vscode" />
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square\&logo=stripe\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white)
 
 </div>
 
-<br>
-
-| Layer            | Technology                    |
-| ---------------- | ----------------------------- |
-| Frontend         | React.js, Tailwind CSS, Axios |
-| Backend          | Node.js, Express.js           |
-| Database         | MongoDB, Mongoose             |
-| Authentication   | JWT                           |
-| State Management | Context API                   |
-| Image Storage    | Cloudinary                    |
-| Payments         | Stripe                        |
-| Deployment       | Vercel                        |
-
 ---
 
-# 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 forever-full-stack/
-│
-├── frontend/
-│   ├── src/
-│   ├── assets/
-│   ├── pages/
-│   ├── components/
-│   └── App.jsx
-│
-├── admin/
-│   ├── src/
-│   ├── pages/
-│   ├── components/
-│   └── App.jsx
 │
 ├── backend/
 │   ├── controllers/
@@ -110,29 +105,60 @@ forever-full-stack/
 │   ├── routes/
 │   └── server.js
 │
+├── frontend/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── context/
+│
+├── admin/
+│   ├── src/
+│   │   ├── pages/
+│   │   ├── components/
+│   │   └── assets/
+│
+├── screenshots/
+│   ├── Home.png
+│   ├── Product.png
+│   ├── Cart.png
+│   └── admin.png
+│
 └── README.md
 ```
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
-## Clone Repository
+### Prerequisites
+
+```bash
+Node.js >= 18
+MongoDB Atlas
+Cloudinary Account
+Stripe Account
+```
+
+### Clone Repository
 
 ```bash
 git clone https://github.com/ab6207/forever-full-stack.git
+
 cd forever-full-stack
 ```
 
-## Backend Setup
+### Backend Setup
 
 ```bash
 cd backend
+
 npm install
+
 npm run server
 ```
 
-Create `.env`
+Create a `.env` file:
 
 ```env
 PORT=4000
@@ -141,7 +167,7 @@ MONGODB_URI=your_mongodb_uri
 
 JWT_SECRET=your_jwt_secret
 
-CLOUDINARY_NAME=your_cloud_name
+CLOUDINARY_NAME=your_cloudinary_name
 
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 
@@ -150,38 +176,38 @@ CLOUDINARY_SECRET_KEY=your_cloudinary_secret
 STRIPE_SECRET_KEY=your_stripe_secret_key
 ```
 
----
-
-## Frontend Setup
+### Frontend Setup
 
 ```bash
 cd frontend
+
 npm install
+
 npm run dev
 ```
 
----
-
-## Admin Setup
+### Admin Setup
 
 ```bash
 cd admin
+
 npm install
+
 npm run dev
 ```
 
 ---
 
-# 🔗 API Endpoints
+## 🔗 API Endpoints
 
-## Authentication
+### Authentication
 
 | Method | Endpoint           |
 | ------ | ------------------ |
 | POST   | /api/user/register |
 | POST   | /api/user/login    |
 
-## Products
+### Products
 
 | Method | Endpoint            |
 | ------ | ------------------- |
@@ -189,7 +215,7 @@ npm run dev
 | POST   | /api/product/add    |
 | DELETE | /api/product/remove |
 
-## Orders
+### Orders
 
 | Method | Endpoint              |
 | ------ | --------------------- |
@@ -199,51 +225,49 @@ npm run dev
 
 ---
 
-# 📸 Screenshots
+## 📸 Application Preview
 
 ### 🏠 Home Page
 
-*Add screenshot here*
+<p align="center">
+  <img src="./screenshots/Home.png" width="100%">
+</p>
 
-### 📦 Product Details
+---
 
-*Add screenshot here*
+### 📦 Product Page
+
+<p align="center">
+  <img src="./screenshots/Product.png" width="100%">
+</p>
+
+---
 
 ### 🛒 Cart Page
 
-*Add screenshot here*
+<p align="center">
+  <img src="./screenshots/Cart.png" width="100%">
+</p>
+
+---
 
 ### 👨‍💼 Admin Dashboard
 
-*Add screenshot here*
+<p align="center">
+  <img src="./screenshots/admin.png" width="100%">
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Live Demo
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ab6207&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab6207&layout=compact&theme=tokyonight"/>
-
-</div>
+🔗 https://forever-frontend-jgifxgwlo-anurag-singhs-projects-f7753076.vercel.app/
 
 ---
 
-# 🔥 GitHub Streak
+## 👨‍💻 Author
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ab6207&theme=tokyonight"/>
-
-</div>
-
----
-
-# 👨‍💻 Author
-
-## Anurag Singh
+**Anurag Singh**
 
 🎓 B.Tech CSE (2027) — IIIT Bhopal
 
@@ -251,20 +275,20 @@ npm run dev
 
 🧩 DSA Enthusiast
 
-🚀 Aspiring Software Development Engineer
+🚀 Open to SDE & Full Stack Opportunities
 
-### Connect With Me
-
-* LinkedIn
-* LeetCode
-* GitHub
-* Portfolio
+GitHub: https://github.com/ab6207
 
 ---
 
-# ⭐ Support
+<div align="center">
 
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+⭐ **Star this repository if you found it useful!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
+
+</div>
+
 
 <div align="center">
 

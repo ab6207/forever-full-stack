@@ -1,43 +1,7 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#a78bfa"/>
-      <stop offset="100%" style="stop-color:#60a5fa"/>
-    </linearGradient>
-  </defs>
-  <!-- Background -->
-  <rect width="900" height="200" fill="url(#bgGrad)" rx="12"/>
-  <!-- Decorative circles -->
-  <circle cx="820" cy="40" r="60" fill="#7c3aed" opacity="0.15"/>
-  <circle cx="80" cy="160" r="50" fill="#3b82f6" opacity="0.12"/>
-  <circle cx="450" cy="190" r="80" fill="#8b5cf6" opacity="0.08"/>
-  <!-- Shopping bag icon SVG path -->
-  <g transform="translate(388, 28)" fill="none" stroke="url(#textGrad)" stroke-width="2">
-    <path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z" stroke-linejoin="round"/>
-    <line x1="3" y1="6" x2="21" y2="6"/>
-    <path d="M16 10a4 4 0 01-8 0"/>
-  </g>
-  <!-- Main title -->
-  <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="url(#textGrad)" letter-spacing="2">Forever Fashion</text>
-  <!-- Subtitle -->
-  <text x="450" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="middle" fill="#94a3b8" letter-spacing="1">Modern Full-Stack MERN E-Commerce Platform</text>
-  <!-- Bottom tags -->
-  <rect x="290" y="150" width="80" height="22" rx="11" fill="#7c3aed" opacity="0.5"/>
-  <text x="330" y="165" font-family="Arial" font-size="11" text-anchor="middle" fill="#e2e8f0">React.js</text>
-  <rect x="383" y="150" width="80" height="22" rx="11" fill="#059669" opacity="0.5"/>
-  <text x="423" y="165" font-family="Arial" font-size="11" text-anchor="middle" fill="#e2e8f0">Node.js</text>
-  <rect x="476" y="150" width="80" height="22" rx="11" fill="#047857" opacity="0.5"/>
-  <text x="516" y="165" font-family="Arial" font-size="11" text-anchor="middle" fill="#e2e8f0">MongoDB</text>
-  <rect x="569" y="150" width="80" height="22" rx="11" fill="#1d4ed8" opacity="0.5"/>
-  <text x="609" y="165" font-family="Arial" font-size="11" text-anchor="middle" fill="#e2e8f0">Stripe</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d2d2d&height=220&section=header&text=Forever%20Fashion&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=48&desc=Modern%20Full%20Stack%20MERN%20E-Commerce%20Platform&descAlignY=70&descSize=20&descColor=cccccc" width="100%"/>
+
 
 <br/>
 
@@ -325,25 +289,8 @@ npm run dev
 
 ---
 
-<div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="100%">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#24243e"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#0f0c29"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="90" fill="url(#footerGrad)" rx="12"/>
-  <circle cx="100" cy="45" r="35" fill="#7c3aed" opacity="0.12"/>
-  <circle cx="800" cy="45" r="35" fill="#3b82f6" opacity="0.12"/>
-  <!-- Shopping bag icon -->
-  <text x="395" y="38" font-family="Arial" font-size="14" fill="#a78bfa" text-anchor="middle">🛍️</text>
-  <text x="450" y="42" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" text-anchor="middle" fill="#e2e8f0">Forever Fashion</text>
-  <text x="450" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="12" text-anchor="middle" fill="#94a3b8">Built with ❤️ using the MERN Stack · MIT License</text>
-</svg>
-
 ⭐ **If this project helped you, please consider giving it a star!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:1a1a1a&height=100&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20using%20MERN%20Stack&fontSize=18&fontColor=cccccc&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
